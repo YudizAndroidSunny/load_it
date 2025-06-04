@@ -27,7 +27,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  load_it: ^1.0.0
+  load_it: ^0.0.2
 ```
 
 Then run:
