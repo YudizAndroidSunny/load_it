@@ -14,12 +14,6 @@ topics:
   - loading-animation
   - loading-spinner
   - loading-progress
-  - loading-status
-  - loading-state
-  - loading-indicator-flutter
-  - loading-indicator-dart
-  - loading-indicator-package
-  - loading-indicator-library
   - spinner
 
 dependencies:
