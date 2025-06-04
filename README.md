@@ -1,4 +1,5 @@
 # Load It
+![](https://raw.githubusercontent.com/YudizAndroidSunny/load_it/main/assets/images/banner.png)
 
 [![pub package](https://img.shields.io/pub/v/load_it.svg)](https://pub.dev/packages/load_it)
 [![package publisher](https://img.shields.io/pub/publisher/load_it.svg)](https://pub.dev/packages/load_it/publisher)
@@ -15,6 +16,10 @@ A beautiful and customizable collection of loading indicators for Flutter applic
 - Lightweight
 - Well-documented
 - MIT Licensed
+
+## Demo
+<img src="https://raw.githubusercontent.com/YudizAndroidSunny/load_it/main/assets/images/demo.gif"/>
+
 
 ## Installation
 
@@ -173,6 +178,18 @@ class MyLoadingScreen extends StatelessWidget {
 }
 ```
 
+## Contributors ✨
+
+Thanks goes to these wonderful people 💻:
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YudizAndroidSunny"><img src="https://avatars.githubusercontent.com/u/137782850?v=4?s=100" width="100px;" alt="YudizAndroidSunny"/><br /><sub><b>YudizAndroidSunny</b></sub></a><br />💻</td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YudizAndroidVarshil"><img src="https://avatars.githubusercontent.com/u/165645464?v=4?s=100" width="100px;" alt="YudizAndroidVarshil"/><br /><sub><b>YudizAndroidVarshil</b></sub></a><br />💻</td>
+    </tr>
+  </tbody>
+</table>
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -180,15 +197,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Changelog
-
-### 1.0.0
-- Initial release
-- Added 25+ loading indicators
-- Added customization options for color and size
-- Added comprehensive documentation
-- Added example usage
 
 ## Support
 
